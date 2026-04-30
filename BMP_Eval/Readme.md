@@ -112,7 +112,7 @@ Evaluation :-
 
 Using judge script:
 
-python3 llm-judge.py \
+python3 llm_judge.py \
   --input-file BMP_Eval/Hotpot/output.md \
   --output-file BMP_Eval/Hotpot/eval.json \
   --judge-model qwen2.5:14b
